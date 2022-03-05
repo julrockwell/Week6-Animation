@@ -1,0 +1,11 @@
+Model Information:
+* title:	Earth 161 3d model
+* source:	https://sketchfab.com/3d-models/earth-161-3d-model-92883e1c28464f1996e14b86de65e4c1
+* author:	Aksgamer (https://sketchfab.com/Aksgamer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Earth 161 3d model" (https://sketchfab.com/3d-models/earth-161-3d-model-92883e1c28464f1996e14b86de65e4c1) by Aksgamer (https://sketchfab.com/Aksgamer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
